@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/kiki-do/kiki-do.github.io%20/static/css/main.855aabf8.css",
-    "main.js": "/kiki-do/kiki-do.github.io%20/static/js/main.b92ffaaa.js",
-    "static/js/787.b6dff4bc.chunk.js": "/kiki-do/kiki-do.github.io%20/static/js/787.b6dff4bc.chunk.js",
-    "static/media/background.png": "/kiki-do/kiki-do.github.io%20/static/media/background.6bd8f5eaf9d46fad436d.png",
-    "static/media/Rectangle 1.png": "/kiki-do/kiki-do.github.io%20/static/media/Rectangle 1.9b4d5fbefb7b5bf8151d.png",
-    "static/media/Rectangle 4.png": "/kiki-do/kiki-do.github.io%20/static/media/Rectangle 4.9b4d5fbefb7b5bf8151d.png",
-    "static/media/Rectangle 5.png": "/kiki-do/kiki-do.github.io%20/static/media/Rectangle 5.9b4d5fbefb7b5bf8151d.png",
-    "static/media/Rectangle 9.png": "/kiki-do/kiki-do.github.io%20/static/media/Rectangle 9.9b4d5fbefb7b5bf8151d.png",
-    "static/media/Rectangle 3.png": "/kiki-do/kiki-do.github.io%20/static/media/Rectangle 3.84dfacece9a652facdff.png",
-    "static/media/Rectangle 7.png": "/kiki-do/kiki-do.github.io%20/static/media/Rectangle 7.84dfacece9a652facdff.png",
-    "static/media/Rectangle 10.png": "/kiki-do/kiki-do.github.io%20/static/media/Rectangle 10.167271bf24b77c5924b2.png",
-    "static/media/Rectangle 2.png": "/kiki-do/kiki-do.github.io%20/static/media/Rectangle 2.167271bf24b77c5924b2.png",
-    "static/media/Rectangle 6.png": "/kiki-do/kiki-do.github.io%20/static/media/Rectangle 6.167271bf24b77c5924b2.png",
-    "static/media/Rectangle 8.png": "/kiki-do/kiki-do.github.io%20/static/media/Rectangle 8.167271bf24b77c5924b2.png",
-    "index.html": "/kiki-do/kiki-do.github.io%20/index.html",
-    "static/media/calendar.svg": "/kiki-do/kiki-do.github.io%20/static/media/calendar.b50945586ec81bf062b0.svg",
-    "main.855aabf8.css.map": "/kiki-do/kiki-do.github.io%20/static/css/main.855aabf8.css.map",
-    "main.b92ffaaa.js.map": "/kiki-do/kiki-do.github.io%20/static/js/main.b92ffaaa.js.map",
-    "787.b6dff4bc.chunk.js.map": "/kiki-do/kiki-do.github.io%20/static/js/787.b6dff4bc.chunk.js.map"
+    "main.css": "/react-task/static/css/main.35abb104.css",
+    "main.js": "/react-task/static/js/main.b750dcdd.js",
+    "static/js/787.b6dff4bc.chunk.js": "/react-task/static/js/787.b6dff4bc.chunk.js",
+    "static/media/background.png": "/react-task/static/media/background.6bd8f5eaf9d46fad436d.png",
+    "static/media/Rectangle 1.png": "/react-task/static/media/Rectangle 1.9b4d5fbefb7b5bf8151d.png",
+    "static/media/Rectangle 4.png": "/react-task/static/media/Rectangle 4.9b4d5fbefb7b5bf8151d.png",
+    "static/media/Rectangle 5.png": "/react-task/static/media/Rectangle 5.9b4d5fbefb7b5bf8151d.png",
+    "static/media/Rectangle 9.png": "/react-task/static/media/Rectangle 9.9b4d5fbefb7b5bf8151d.png",
+    "static/media/Rectangle 3.png": "/react-task/static/media/Rectangle 3.84dfacece9a652facdff.png",
+    "static/media/Rectangle 7.png": "/react-task/static/media/Rectangle 7.84dfacece9a652facdff.png",
+    "static/media/Rectangle 10.png": "/react-task/static/media/Rectangle 10.167271bf24b77c5924b2.png",
+    "static/media/Rectangle 2.png": "/react-task/static/media/Rectangle 2.167271bf24b77c5924b2.png",
+    "static/media/Rectangle 6.png": "/react-task/static/media/Rectangle 6.167271bf24b77c5924b2.png",
+    "static/media/Rectangle 8.png": "/react-task/static/media/Rectangle 8.167271bf24b77c5924b2.png",
+    "index.html": "/react-task/index.html",
+    "static/media/calendar.svg": "/react-task/static/media/calendar.b50945586ec81bf062b0.svg",
+    "main.35abb104.css.map": "/react-task/static/css/main.35abb104.css.map",
+    "main.b750dcdd.js.map": "/react-task/static/js/main.b750dcdd.js.map",
+    "787.b6dff4bc.chunk.js.map": "/react-task/static/js/787.b6dff4bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.855aabf8.css",
-    "static/js/main.b92ffaaa.js"
+    "static/css/main.35abb104.css",
+    "static/js/main.b750dcdd.js"
   ]
 }
