@@ -23,7 +23,6 @@ export const AuthForm: FC = () => {
 		const regNameValidate =
 			/^((([0-9A-Za-z]{1}[-0-9A-z\.]{1,}[0-9A-Za-z]{1})|([0-9А-Яа-я]{1}[-0-9А-я\.]{1,}[0-9А-Яа-я]{1}))@([-A-Za-z]{1,}\.){1,2}[-A-Za-z]{2,})$/u;
 		if (!regNameValidate.test(String(event.target.value).toLowerCase())) {
-			setValidLogin(false);
 		} else {
 			setErrorLogin("");
 			setValidLogin(true);
@@ -34,7 +33,6 @@ export const AuthForm: FC = () => {
 		setPass(event.target.value);
 		const regNameValidate = /[0-9a-zA-Z!@#$%^&*]{8,}/u;
 		if (!regNameValidate.test(String(event.target.value).toLowerCase())) {
-			setValidLogin(false);
 		} else {
 			setErrorPassword("");
 			setValidPassword(true);
