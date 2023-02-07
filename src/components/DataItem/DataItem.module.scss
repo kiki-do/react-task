@@ -1,0 +1,82 @@
+@import "/src/assets/styles/pallete.scss";
+
+.wrapper {
+	margin-top: 40px;
+	display: flex;
+	align-items: center;
+	padding-bottom: 15px;
+	border-bottom: 1px solid rgba(135, 135, 135, 0.2);
+
+	.icon {
+		background: $data_background;
+		width: 64px;
+		height: 64px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		border-radius: 50%;
+		margin-right: 24px;
+	}
+
+	.info {
+		display: flex;
+		flex-direction: column;
+		gap: 5px;
+
+		.title {
+			width: 254px;
+			font-weight: 300;
+			font-size: 17px;
+			line-height: 22px;
+			letter-spacing: -0.408px;
+			color: $text;
+		}
+
+		.days {
+			font-weight: 400;
+			font-size: 14px;
+			line-height: 22px;
+			letter-spacing: -0.408px;
+			color: $gray;
+		}
+	}
+
+	.end {
+		display: flex;
+		flex-direction: column;
+		float: right;
+		align-items: flex-end;
+		justify-content: end;
+		gap: 22px;
+		margin-left: 196px;
+
+		.heart {
+			path {
+				transition: 0.5s;
+			}
+		}
+
+		.empty:hover {
+			path {
+				fill: $empty;
+				transition: 0.5s;
+			}
+		}
+		.price {
+			font-style: normal;
+			font-weight: 400;
+			font-size: 14px;
+			line-height: 22px;
+			letter-spacing: -0.408px;
+			color: $gray;
+
+			& span {
+				font-weight: 400;
+				font-size: 17px;
+				line-height: 22px;
+				letter-spacing: -0.408px;
+				color: $text;
+			}
+		}
+	}
+}

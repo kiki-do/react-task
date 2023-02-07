@@ -1,0 +1,66 @@
+@import "/src/assets/styles/pallete.scss";
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	padding-bottom: 20px;
+	width: 300px;
+	border-bottom: 1px solid rgba(135, 135, 135, 0.2);
+
+	.header {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.content {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.title {
+		font-weight: 300;
+		font-size: 17px;
+		line-height: 22px;
+		letter-spacing: -0.408px;
+		color: $text;
+	}
+
+	.bottom {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+	}
+
+	.text,
+	.day {
+		margin-bottom: 20px;
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 22px;
+		letter-spacing: -0.408px;
+		color: #878787;
+	}
+
+	.price {
+		float: right;
+		font-weight: 300;
+		font-size: 11px;
+		line-height: 22px;
+		color: #878787;
+		letter-spacing: -0.408px;
+		position: absolute;
+		right: 0;
+		bottom: 18px;
+
+		& span {
+			font-weight: 400;
+			font-size: 17px;
+			line-height: 22px;
+			text-align: right;
+			letter-spacing: -0.408px;
+			color: $text;
+		}
+	}
+}

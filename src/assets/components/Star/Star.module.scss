@@ -1,0 +1,20 @@
+.wrapper {
+	.on,
+	.off {
+		width: 20px;
+		height: 20px;
+		margin-left: 3px;
+	}
+
+	.on {
+		path {
+			fill: #cdbc1e;
+		}
+	}
+
+	.stars {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+	}
+}

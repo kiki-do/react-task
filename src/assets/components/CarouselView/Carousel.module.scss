@@ -1,0 +1,17 @@
+.wrapper {
+	cursor: grab;
+	overflow: hidden;
+
+	.inner {
+		display: flex;
+
+		.item {
+			padding: 5px;
+			min-width: 27%;
+
+			& img {
+				pointer-events: none;
+			}
+		}
+	}
+}

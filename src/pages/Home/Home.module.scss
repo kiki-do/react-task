@@ -1,0 +1,25 @@
+@import "/src/assets/styles/pallete.scss";
+
+.wrapper {
+	background: $back_page;
+	width: 100vw;
+	height: 100vh;
+
+	.title {
+		font-weight: 500;
+		font-size: 24px;
+		line-height: 28px;
+		color: $text;
+		text-align: center;
+	}
+
+	.content {
+		display: grid;
+		grid-template-areas:
+			"c b b"
+			"a b b";
+		gap: 24px;
+		width: 1048px;
+		margin: 0 auto;
+	}
+}

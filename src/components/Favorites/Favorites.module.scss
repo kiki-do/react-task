@@ -1,0 +1,111 @@
+@import "/src/assets/styles/pallete.scss";
+
+.wrapper {
+	width: 332px;
+	height: 472px;
+	background: $white;
+	box-shadow: $form_shadow;
+	border-radius: 16px;
+	padding: 32px 0 0 32px;
+	display: flex;
+	flex-direction: column;
+	gap: 32px;
+	grid-area: a;
+
+	.title {
+		font-weight: 500;
+		font-size: 24px;
+		line-height: 28px;
+		color: $text;
+	}
+
+	.filter {
+		display: flex;
+		flex-direction: row;
+		gap: 10px;
+
+		.raiting {
+			display: flex;
+			flex-direction: row;
+			gap: 10px;
+			border: 1px solid $logout;
+			width: 90px;
+			height: 30px;
+			align-items: center;
+			justify-content: center;
+			border-radius: 4px;
+			cursor: pointer;
+			.text {
+				font-size: 14px;
+				line-height: 20px;
+				letter-spacing: -0.408px;
+				color: $logout;
+			}
+
+			.icons {
+				display: flex;
+				flex-direction: column;
+			}
+		}
+
+		.price {
+			outline: none;
+			display: flex;
+			flex-direction: row;
+			gap: 10px;
+			border: 1px solid $logout;
+			width: 90px;
+			height: 30px;
+			align-items: center;
+			justify-content: center;
+			border-radius: 4px;
+			background: $white;
+			cursor: pointer;
+			.text {
+				font-size: 14px;
+				line-height: 20px;
+				letter-spacing: -0.408px;
+				color: $logout;
+			}
+
+			.icons {
+				display: flex;
+				flex-direction: column;
+			}
+
+			&:disabled {
+				pointer-events: none;
+				opacity: 1;
+				border: 1px solid;
+
+				.text {
+					color: $disabled;
+				}
+
+				& svg {
+					path {
+						fill-opacity: 0.3;
+					}
+				}
+			}
+		}
+	}
+
+	.items {
+		overflow-y: auto;
+		max-height: 700px;
+		margin-right: 10 px;
+		&::-webkit-scrollbar {
+			width: 2px;
+		}
+
+		&::-webkit-scrollbar-track {
+			background: $scrollbar;
+		}
+
+		&::-webkit-scrollbar-thumb {
+			background: $logout;
+			border-radius: 2px;
+		}
+	}
+}
