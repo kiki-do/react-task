@@ -44,11 +44,11 @@
 	.end {
 		display: flex;
 		flex-direction: column;
-		float: right;
 		align-items: flex-end;
-		justify-content: end;
+		float: right;
 		gap: 22px;
-		margin-left: 196px;
+		width: 200px;
+		margin-left: 75px;
 
 		.heart {
 			path {
