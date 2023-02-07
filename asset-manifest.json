@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/kiki-do.github.io/react-task/static/css/main.bc8ee5a8.css",
+    "main.js": "/kiki-do.github.io/react-task/static/js/main.10617de6.js",
+    "static/js/787.b6dff4bc.chunk.js": "/kiki-do.github.io/react-task/static/js/787.b6dff4bc.chunk.js",
+    "static/media/background.png": "/kiki-do.github.io/react-task/static/media/background.6bd8f5eaf9d46fad436d.png",
+    "static/media/Rectangle 1.png": "/kiki-do.github.io/react-task/static/media/Rectangle 1.9b4d5fbefb7b5bf8151d.png",
+    "static/media/Rectangle 4.png": "/kiki-do.github.io/react-task/static/media/Rectangle 4.9b4d5fbefb7b5bf8151d.png",
+    "static/media/Rectangle 5.png": "/kiki-do.github.io/react-task/static/media/Rectangle 5.9b4d5fbefb7b5bf8151d.png",
+    "static/media/Rectangle 9.png": "/kiki-do.github.io/react-task/static/media/Rectangle 9.9b4d5fbefb7b5bf8151d.png",
+    "static/media/Rectangle 3.png": "/kiki-do.github.io/react-task/static/media/Rectangle 3.84dfacece9a652facdff.png",
+    "static/media/Rectangle 7.png": "/kiki-do.github.io/react-task/static/media/Rectangle 7.84dfacece9a652facdff.png",
+    "static/media/Rectangle 10.png": "/kiki-do.github.io/react-task/static/media/Rectangle 10.167271bf24b77c5924b2.png",
+    "static/media/Rectangle 2.png": "/kiki-do.github.io/react-task/static/media/Rectangle 2.167271bf24b77c5924b2.png",
+    "static/media/Rectangle 6.png": "/kiki-do.github.io/react-task/static/media/Rectangle 6.167271bf24b77c5924b2.png",
+    "static/media/Rectangle 8.png": "/kiki-do.github.io/react-task/static/media/Rectangle 8.167271bf24b77c5924b2.png",
+    "index.html": "/kiki-do.github.io/react-task/index.html",
+    "static/media/calendar.svg": "/kiki-do.github.io/react-task/static/media/calendar.b50945586ec81bf062b0.svg",
+    "main.bc8ee5a8.css.map": "/kiki-do.github.io/react-task/static/css/main.bc8ee5a8.css.map",
+    "main.10617de6.js.map": "/kiki-do.github.io/react-task/static/js/main.10617de6.js.map",
+    "787.b6dff4bc.chunk.js.map": "/kiki-do.github.io/react-task/static/js/787.b6dff4bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc8ee5a8.css",
+    "static/js/main.10617de6.js"
+  ]
+}
