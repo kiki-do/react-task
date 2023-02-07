@@ -1,8 +1,8 @@
 {
 	"name": "react-task",
 	"version": "0.1.0",
-	"private": false,
-	"homepage": "https://github.com/kiki-do.github.io/react-task",
+	"private": true,
+	"homepage": "https://github.com/kiki-do/kiki-do.github.io ",
 	"dependencies": {
 		"@reduxjs/toolkit": "^1.9.2",
 		"@testing-library/jest-dom": "^5.16.5",
